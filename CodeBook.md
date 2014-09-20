@@ -4,9 +4,9 @@ This document is about tidy data created from the "Human Activity Recognition Us
 
 Thats is part of Project Course in "Getting and Cleaning Data" which belongs to Data Science Specialization in Coursera.
 
-A full description is available at the site where the data was obtained:[UCI - Machine Learning Repository]("http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones")
+A full description is available at the site where the data was obtained:[UCI - Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-A copy of the original data is available [clicking here]("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip")
+A copy of the original data is available [clicking here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 To see more information about this document, see the README.md file.
 
