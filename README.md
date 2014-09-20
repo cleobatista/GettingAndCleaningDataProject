@@ -53,7 +53,7 @@ It was created one R script called run_analysis.R that does the following.
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-A tidy data set copy is available [clicking here](https://s3.amazonaws.com/coursera-uploads/user-628803b5f9116019ea25fbb9/972585/asst-3/8f471c603e9c11e48d2ac7873b01753f.txt)
+A tidy data set copy is available [clicking here](https://s3.amazonaws.com/coursera-uploads/user-628803b5f9116019ea25fbb9/972585/asst-3/8b1c58e040d511e4b1d877e3ac850ca0.txt)
 
 
 The data dictionary is shown in CodeBook.md file.
