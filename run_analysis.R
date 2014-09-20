@@ -60,6 +60,8 @@ names(newtable)<-gsub("-","",names(newtable))
 names(newtable)<-gsub("BodyBody","Body",names(newtable))
 names(newtable)<-gsub("mean","Mean",names(newtable))
 names(newtable)<-gsub("std","SD",names(newtable))
+names(newtable)<-gsub("^t","time",names(newtable))
+names(newtable)<-gsub("^f","frequency",names(newtable))
 
 #create vectors with differents subjects, activits and variables for the newtable
 act<-levels(newtable$activity)
